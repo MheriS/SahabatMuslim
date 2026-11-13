@@ -1,0 +1,6 @@
+{
+  "name": "Sahabat Muslim",
+  "description": "Aplikasi pendamping ibadah digital: Al-Qur'an, Doa, Zikir, Jadwal Salat, Puasa, Kiblat, dan Perjalanan Ibadah oleh HarmonyMan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
